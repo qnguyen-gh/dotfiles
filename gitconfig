@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = quan99@outlook.de
+	name = Quan Nguyen
